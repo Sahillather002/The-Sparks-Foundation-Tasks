@@ -7,10 +7,6 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Category** - Data Science and Business Analytics
 - **Internship Duration** - 1 Month ( October-2021 )
 - **Internship Type** - Work from Home
-- 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-1_Linear_Regression.ipynb)
-
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 
