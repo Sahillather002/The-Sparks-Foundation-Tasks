@@ -28,5 +28,4 @@ This repository contains the tasks that I completed while working as an intern f
 1. As a business manager, try to find out the weak areas where you can work to make more profit.
 2. What all business problems you can derive by exploring the data?
 3. Dash Boards- explaining the charts and interpretations
-
-  DataSet : https://bit.ly/3i4rbWl
+4. DataSet : https://bit.ly/3i4rbWl
