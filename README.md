@@ -25,6 +25,8 @@ This repository contains the tasks that I completed while working as an intern f
 
 ## # Task-3 : Exploratory Data Analysis-Retail (Level - Beginner)
 
-1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
-1. Use R or Python or perform this task.
-1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
+1. As a business manager, try to find out the weak areas where you can work to make more profit.
+2. What all business problems you can derive by exploring the data?
+3. Dash Boards- explaining the charts and interpretations
+
+DataSet : https://bit.ly/3i4rbWl
