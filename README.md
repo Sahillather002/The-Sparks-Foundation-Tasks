@@ -8,6 +8,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - 1 Month ( October-2021 )
 - **Internship Type** - Work from Home
 
+
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 
 1. Predict the percentage of marks of an student based on the number of study hours.
