@@ -32,7 +32,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 ## # Task-4 : Exploratory Data Analysis-Terrorism (Level - Intermediate)
 
-1. As a business manager, try to find out the weak areas where you can work to make more profit.
-2. What all business problems you can derive by exploring the data?
+1. As a Security / Defense Analyst, try to find out the hot zone of terrorism.
+2. What all security issues and insights you can derive by EDA?
 3. Dash Boards- explaining the charts and interpretations
 4. DataSet : https://bit.ly/2TK5Xn5
